@@ -4,7 +4,7 @@
 
 ### Korean Cityzen(Bluemoon) 2010/08 ~
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=hexcode&height=300&section=header&text=capsule%20render&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=wave&color=hexcode&height=100&section=header&text=capsule%20render&fontSize=150)
 
 
 <!--
