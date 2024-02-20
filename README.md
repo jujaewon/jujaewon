@@ -1,11 +1,12 @@
-### My profile
+# My profile
 
-### Studying for coding especially front-end skills
+## Studying for coding especially front-end skills
+
+## Experienced Skills : Python, HTML/CSS, JavaScript, Django, Vue.js
+
+### I recently learned Flutter which is intuitive
 
 ### Korean Cityzen(Bluemoon) 2010/08 ~
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=hexcode&height=100&section=header&text=capsule%20render&fontSize=150)
-
 
 <!--
 **jujaewon/jujaewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
