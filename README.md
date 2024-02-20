@@ -1,6 +1,6 @@
-### Hi there 👋
+### My profile
 
-### Glad to meet
+### Studying for coding especially front-end skills
 
 ### Korean Cityzen(Bluemoon) 2010/08 ~
 
