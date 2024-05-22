@@ -4,15 +4,19 @@
 
 ## Experienced Skills : Python, HTML/CSS, JavaScript, Django, Vue.js
 
-### I recently learned Flutter which is intuitive
 
-## Project Activities
+# Project Activities
 
-### First Project
+## First Project
 
-### Second Project
+### Front-End 
+<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" width="auto" height="25">
+<img src="https://img.shields.io/badge/getx-8A2BE2?style=for-the-badge&logo=getx&logoColor=white" width="auto" height="25">
+<img src="https://img.shields.io/badge/webrtc-333333?style=for-the-badge&logo=webrtc&logoColor=white" width="auto" height="25">
 
-### Third Project
+## Second Project
+
+## Third Project
 
 <!--
 **jujaewon/jujaewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
