@@ -6,6 +6,14 @@
 
 ### I recently learned Flutter which is intuitive
 
+## Project Activities
+
+### First Project
+
+### Second Project
+
+### Third Project
+
 <!--
 **jujaewon/jujaewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
