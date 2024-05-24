@@ -2,8 +2,20 @@
 
 ## Studying for coding especially front-end skills
 
-## Experienced Skills : Python, HTML/CSS, JavaScript, Django, Vue.js
+## Experienced Skills
 
+### Major Track : Python 
+
+### Front-End 
+HTML/CSS : (2023.09~)
+JavaScript : (2023.10~)
+Vue.js : (2023.11~)
+Flutter : (2024.01~)
+React : (2024.01~)
+Typescript(2024.04~)
+
+### Back-End
+Django : (2023.09~)
 
 # Project Activities
 
