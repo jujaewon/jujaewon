@@ -17,6 +17,12 @@ Typescript(2024.04~)
 ### Back-End
 Django : (2023.09~)
 
+### ETC
+OPIc - IH(2024.07.28)
+TOEIC - 935(2023.02.19)
+전기기사(2022)
+정보처리기사-ing(필기 : 2024.07.08)
+
 # Project Activities
 
 ## First Project
@@ -24,7 +30,7 @@ Django : (2023.09~)
 ### Front-End 
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" width="auto" height="25"> <img src="https://img.shields.io/badge/getx-8A2BE2?style=for-the-badge&logo=getx&logoColor=white" width="auto" height="25"> <img src="https://img.shields.io/badge/webrtc-333333?style=for-the-badge&logo=webrtc&logoColor=white" width="auto" height="25">
 
-## Second Project(Couldn't push due to error)
+## Second Project(Participated in data crawling)
 <img src="https://img.shields.io/badge/python 3.10-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=&logoColor=white">
 
 ## Third Project
