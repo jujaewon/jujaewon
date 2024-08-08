@@ -8,10 +8,15 @@
 
 ### Front-End 
 HTML/CSS : (2023.09~)
+
 JavaScript : (2023.10~)
+
 Vue.js : (2023.11~)
+
 Flutter : (2024.01~)
+
 React : (2024.01~)
+
 Typescript(2024.04~)
 
 ### Back-End
