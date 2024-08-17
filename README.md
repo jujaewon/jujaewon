@@ -2,6 +2,8 @@
 
 ## Studying for coding especially front-end skills
 
+## Major : Electronic & Electric Engineering
+
 ## Experienced Skills
 
 ### Major Track : Python 
