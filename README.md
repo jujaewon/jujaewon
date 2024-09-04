@@ -2,7 +2,7 @@
 
 ## Studying for coding especially front-end skills
 
-## Major : Electronic & Electric Engineering
+## Major : HIU Electronic & Electric Engineering
 
 ## Experienced Skills
 
